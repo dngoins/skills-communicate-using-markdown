@@ -23,3 +23,11 @@ import numpy as np
 int i = 0;
 i++;
 ```
+
+
+Tasks lists
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [X] Remind Me
